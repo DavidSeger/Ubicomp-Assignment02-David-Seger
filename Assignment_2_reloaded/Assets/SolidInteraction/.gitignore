@@ -1,0 +1,143 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+*.csproj.user
+*.csproj.ide
+*.csproj.vspscc
+*.sln.ide
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# VS Code directories
+.vscode/
+
+# Visual Studio Code workspace storage
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNetTool artifacts
+**/.store/
+**/.stage/
+**/.staging/
+
+# VS for Mac
+.vscode/
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Files built by Visual Studio
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opendb
+*.tlog
+*.log
+*.csproj.user
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Exclude node_modules
+node_modules/
+
+# macOS files
+.DS_Store
+
+# Ignore test, build results, and deployment files
+*.dll
+*.exe
+*.out
+*.app
+*.ipa
+*.iobj
+*.pdb
+*.midl.obj
+*.idb
+*.ap_
+*.res
+*.so
+*.lib
+*.tlb
+*.tlh
+*.bak
+*.orig
+*.mssccprj.scc
+*.proj
+*.csproj.vspscc
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore package management directories
+.nuget/
+packages/
+
+# Ignore configuration files
+appsettings*.json
+
+data/

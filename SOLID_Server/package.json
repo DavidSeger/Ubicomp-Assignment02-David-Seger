@@ -1,0 +1,19 @@
+{
+  "name": "solid_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@comunica/query-sparql": "^4.0.2",
+    "@inrupt/solid-client-authn-core": "^2.2.7",
+    "body-parser": "^1.20.3",
+    "cross-fetch": "^4.0.0",
+    "express": "^4.21.1"
+  }
+}
